@@ -24,7 +24,7 @@ Agrupa aquí tus herramientas más utilizadas. Puedes mantener todas o eliminar 
 
 ### 🔧 Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL SERVER](https://img.shields.io/badge/SQL SERVER-009688?style=for-the-badge&logo=SQL SERVER&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL SERVER](https://img.shields.io/badge/SQL_SERVER-009688?style=for-the-badge&logo=SQL_SERVER&logoColor=white)
 
 ### ☁️ DevOps y Cloud
 
